@@ -252,3 +252,7 @@ footer {
     a:visited {
         color: #52330E;
     }
+
+    #mymap {
+        margin: auto;
+    }
