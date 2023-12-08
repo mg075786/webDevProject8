@@ -200,3 +200,30 @@ footer {
 .instructions{
     font-style:italic;
 }
+#thumbs, #image {
+    width: 700px;
+    border: solid 1px 000;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    color: #000;
+    background: #eee;
+    padding: 5px;
+}
+
+#thumbs {
+    margin-top: 10px;
+}
+
+        
+#thumbs img {
+    border: solid 1px #000;
+    margin: 5px;
+}
+
+#image{
+    height:400px;
+}
+
+.instructions{
+    font-style:italic;
+}
