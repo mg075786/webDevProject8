@@ -253,6 +253,9 @@ footer {
         color: #52330E;
     }
 
-    #mymap {
-        margin: auto;
+    .mymap {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
     }
